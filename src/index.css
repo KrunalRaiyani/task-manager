@@ -6,6 +6,11 @@
   border: 1px solid black;
 }
 
+.add-btn{
+  width: 100%;
+  max-width: 25%;
+}
+
 .alert-blue{
   background-color: rgba(0, 213, 255, 0.678);
 }

@@ -31,7 +31,7 @@ const Form = () => {
                 <label htmlFor="time" className="form-label">Time</label>
                 <input type="time" className="form-control task-inp" id="time" ref={timeVal} required />
             </div>
-            <button type="submit" className="btn btn-primary my-4 w-25 align-self-center">Add Task</button>
+            <button type="submit" className="btn btn-primary my-4 align-self-center add-btn">Add Task</button>
         </form>
     )
 }
